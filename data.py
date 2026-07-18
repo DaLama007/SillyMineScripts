@@ -18,6 +18,9 @@ BLOCK_HARDNESS = {
 
     # Deepslate variants
     'minecraft:deepslate': 3,
+    'minecraft:deepslate[axis=y]': 3,
+    'minecraft:deepslate[axis=x]': 3,
+    'minecraft:deepslate[axis=z]': 3,
     'minecraft:cobbled_deepslate': 3.5,
     'minecraft:cobbled_deepslate_slab': 3.5,
     'minecraft:cobbled_deepslate_stairs': 3.5,
